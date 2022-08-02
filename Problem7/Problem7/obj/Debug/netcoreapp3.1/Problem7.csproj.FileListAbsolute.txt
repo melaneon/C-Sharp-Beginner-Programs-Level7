@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\bin\Debug\netcoreapp3.1\Problem7.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Problem7\Problem7\obj\Debug\netcoreapp3.1\Problem7.pdb

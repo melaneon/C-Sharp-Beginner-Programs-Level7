@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Polynomial\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.pdb

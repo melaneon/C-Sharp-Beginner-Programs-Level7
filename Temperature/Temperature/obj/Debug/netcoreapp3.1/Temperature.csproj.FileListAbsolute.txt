@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab07\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 7\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
